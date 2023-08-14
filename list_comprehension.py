@@ -7,6 +7,8 @@ for x in fruits:
 print(newlist)
 
 
+
+
 fruits = ["apple", "mango", "banana", "kiwi"]
 newlist = [x for x in fruits if "a" in x]
 print(newlist)
