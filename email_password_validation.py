@@ -2,7 +2,7 @@ import re
 user = {}
 
 def validate_password(password):
-    if 4 <= len(password) <=8 and re.search(r'([A-Za-z])([A-Za-z\d@$!%*?&])[1234567890]', password):
+    if 4 <= len(password) <=8 and re.search('([A-Za-z])([A-Za-z\d@$!%*?&])[1234567890]', password):
         return True
     return False
 
