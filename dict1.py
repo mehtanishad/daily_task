@@ -1,6 +1,6 @@
 d1 = {
-    "email":"mehtanishad@gmail.com"
-    "password":"mehta2030"
+    "email" "mehtanishad@gmail.com"
+    "password" "mehta2030"
 
     }
 
